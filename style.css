@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+  
+}
+
+.post {
+    background-color: white;
+    width: 50%;
+    height: 600px;
+    margin: auto;
+
+}
+
+img {
+    width: 100%;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+    
+}
+.left {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    align-items: center;
+}
+
+.descripcion .icon {
+   display: flex;
+    justify-content: space-between; 
+    padding: 5px;
+    font-size: 20px;
+}
+
+.title {
+   width: 20%;
+}
+
+h3 {
+   margin: 0;
+}
+
+p{
+    padding: 5px;
+}
+
